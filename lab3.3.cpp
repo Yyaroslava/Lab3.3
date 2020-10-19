@@ -24,7 +24,7 @@ int main()
                 if (-4 <= x && x <= 2)
                     y = R + (-1 - R) / 6 * (x + 4);
                 else
-                    y = x;
+                    y = x-3;
 
     cout << endl;
     cout << "y = " << y << endl;
